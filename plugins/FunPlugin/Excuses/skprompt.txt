@@ -1,0 +1,7 @@
+Generate a creative reason or excuse for the given event. Be creative and be funny. Let your imagination run wild.
+Don't output anything else just the excuse as if you're talking to the boss.
+
+Event:I am running late.
+Excuse:I was being held ransom by giraffe gangsters. 
+
+Event:{{$input}}
