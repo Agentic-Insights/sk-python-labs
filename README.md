@@ -1,6 +1,10 @@
-# 🧠 Semantic Kernel Python Tutorial 101 🐍
+# 🧠 Semantic Kernel 🌽 Python Tutorial 101 🐍
 
-Welcome to the Semantic Kernel Python Tutorial 101! This repository provides a hands-on introduction to using Semantic Kernel with Python, demonstrating integration with various AI services.
+Welcome to the Semantic Kernel Python Tutorial 101! This repository provides a hands-on introduction to using Semantic Kernel with Python, demonstrating integration with various AI services. Semeantic implements a Kernel that supports Python, C#, and Java. The Kernel is an opinionated, configurable set of abstractions that are agentic in various ways. It offers a very interesting Plugins architecture that allows for LLM based and native functions within a plugin namespace for grouping more granular functions and tools - both semantic and discrete - to accomplish a larger task. 
+
+- [Microsoft Semantic Kernel - github repo](https://github.com/microsoft/semantic-kernel)
+- [Compare / contrast LangChain, Semantic Kernel, and AutoGen](https://medium.com/data-science-at-microsoft/harnessing-the-power-of-large-language-models-a-comparative-overview-of-langchain-semantic-c21f5c19f93e)
+- [Microsoft Learn - Intro to Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 
 ## 🚀 Getting Started
 
