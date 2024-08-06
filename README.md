@@ -8,6 +8,8 @@ Welcome to the Semantic Kernel Python Tutorial 101! This repository provides a h
 
 - Python 3.10+
 - pip (Python package manager)
+- Ollama - https://www.ollama.com/
+- Groq API key - https://console.groq.com/keys
 
 ### Installation
 
@@ -81,7 +83,7 @@ service = OpenAIChatCompletion(
     org_id=os.getenv("GROQ_ORG_ID"),
     ai_model_id=os.getenv("GROQ_MODEL")
 )
-service.client.base_url = os.getenv("GROQ_BASE_URL")
+service.client.base_url = os.getenv("GROQ_BASE_URL")  # this is the important line
 kernel.add_service(service=service)
 ```
 
